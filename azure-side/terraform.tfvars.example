@@ -1,0 +1,4 @@
+yourname                   = "yourname"
+location                   = "East US"
+appliance_admin_password   = "ReplaceWithStrongPassword123!"
+replication_admin_password = "ReplaceWithStrongPassword456!"
