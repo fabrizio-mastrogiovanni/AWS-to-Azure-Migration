@@ -4,7 +4,7 @@ Migrating a Windows Server 2022 workload from AWS EC2 into Azure using Azure Mig
 
 ## Video walkthrough
 
-📹 **[Watch the walkthrough](ADD_YOUR_LOOM_LINK_HERE)**
+📹 https://www.loom.com/share/4946195db2a5416f9a87ad0d1d98d204
 
 ---
 
